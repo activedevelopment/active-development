@@ -26,6 +26,7 @@ brainstorming doc.
 
 - Can it be used to solve the C++ package management problem?
 - Should I use one giant uber-container?
+- Can the video be accessed directly from inside the container (without using X)?
 
 ## Learn
 
@@ -39,4 +40,6 @@ Make specific dev environments to learn how to:
 - Neo4J
 - GraphQL
 - Secrets
+
+
 
