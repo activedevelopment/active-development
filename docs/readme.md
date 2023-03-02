@@ -24,5 +24,5 @@ brainstorming doc.
 
 #### Questions
 
-- Can it 
+- Can it be used to solve the C++ package management problem?
 
