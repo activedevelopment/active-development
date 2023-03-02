@@ -25,4 +25,18 @@ brainstorming doc.
 #### Questions
 
 - Can it be used to solve the C++ package management problem?
+- Should I use one giant uber-container?
+
+## Learn
+
+Make specific dev environments to learn how to:
+
+- Kafka
+- Kafka for Event Sourcing
+- k8s / Rancher
+- Figure out the 'best' MQ
+- What makes PostGres so well-liked?
+- Neo4J
+- GraphQL
+- Secrets
 
